@@ -4,12 +4,9 @@ Projeto criado para a disciplina de Projeto Integrador do Senac. O objetivo é o
 
 ## Integrantes
 
-- Carlos Henrique de Castro Caamano
-- Janaina Conceicao Tavares da Silva
-- Juliano Lopes dos Santos
 - Matheus Mauricio
-- Ricardo Pereira Rodrigues
-- Sebastião Barbosa Pereira Junior
+- Janaina Conceicao Tavares da Silva
+
 
 ## Tecnologias Utilizadas
 - Kotlin
